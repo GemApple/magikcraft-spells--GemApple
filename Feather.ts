@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function newSpell() {
+function Feather() {
 	magik.FeatherOfLuck('feather')
 }
